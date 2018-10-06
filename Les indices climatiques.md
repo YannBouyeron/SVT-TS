@@ -23,9 +23,9 @@ Lorsque la concentration en 18O de l'eau diminue le δ18O diminue.
 
 <p style="color:;text-align:center;font-size:px;">Moyennes mensuelles du δ18O des eaux de précipitation:</p>
 
-    |       |
-----|:-----:|
-![](http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob2-O18.gif) | ![](http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob3-O18.gif) |
+    |       
+----|-----
+![](http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob2-O18.gif) | ![](http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob3-O18.gif) 
 
 
 Le δ18O varie en fonction de la latitude: plus la latitude est élevée plus le δ18O est faible. Le δ18O varie aussi en fonction du temps (saisons); il est plus faible en janvier qu'en juillet. La variation temporelle s'observe surtout aux hautes latitudes.

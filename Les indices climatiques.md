@@ -36,9 +36,9 @@ Ces variations spatiales et temporelles suggèrent une influence de la températ
 
 Le dossier temp_18o contient des fichiers xlsx mettant en relation la date, le δ18O mesuré dans l’eau de pluie et la température mesurée , en différents lieux. On peut donc tracer les graphiques suivants : δ18O = f(température) et afficher leurs droites de régression, ainsi que leurs équations et coefficients de corrélation R, pour différents lieux.
 
-                    |                   |  
- ------------------ | :---------------: | 
-![](IMG_1976.PNG)	  | ![](IMG_1977.PNG)	|	
+                      |                   |  
+ -------------------- | :---------------: | 
+![](IMG_1976.PNG)	  | ![](IMG_1977.PNG) |	
 ![](IMG_1979.PNG)	  | ![](IMG_1980.PNG) |
 
 

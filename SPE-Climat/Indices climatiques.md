@@ -78,9 +78,9 @@ Les équations des droites de régression varient en fonction de la localisation
 <p align="center"> <img src="http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/cor_temp.gif" alt=""></p>
 
 
-*Jouzel J., C. Lorius, S. Johnsen and P. Grootes, 1994 :  
+<i>Jouzel J., C. Lorius, S. Johnsen and P. Grootes, 1994 :  
 Climate instabilities : Greenland and Antarctic records. 
-Compte Rendu de l'Académie des Sciences de Paris. vol. t. 319, série II, 65-77 *
+Compte Rendu de l'Académie des Sciences de Paris. vol. t. 319, série II, 65-77</i>
 
 Les équations des droites de régression du graphique de Jouzel sont du type : y = a.x + b c'est à dire δ = a.(Température) + b            
 Donc: Température = (δ - b) / a 

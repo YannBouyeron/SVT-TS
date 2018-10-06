@@ -39,8 +39,8 @@ Le dossier temp_18o contient des fichiers xlsx mettant en relation la date, le �
 
   |  |  
  ------------ | :-----------: | 
-![](doc/halley.png)		  |   ![](doc/murmansk.png)	|	
-![](doc/anderma.png)	| ![](doc/kinshasa.png) |
+![](./doc/halley.png)		  |   ![](./doc/murmansk.png)	|	
+![](./doc/barrow.png)	| ![](./doc/kinshasa.png) |
 
 
 En fonction du lieu choisi, il n'existe pas toujours une corrélation entre les valeurs du δ18O des eaux de précipitations et la moyenne mensuelle (ou annuelle) des températures de l'air. La corrélation est forte (les points s'alignent) aux hautes latitudes (Pôles), mais très faibles (mauvais alignement, points dispersés) aux faibles latitudes (Équateur).

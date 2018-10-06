@@ -75,7 +75,7 @@ Aux hautes latitudes, si on connaît (mesure) le δ18O, on peut alors détermine
 
 Les équations des droites de régression varient en fonction de la localisation. L’utilisation du δ18O pour reconstituer les variations paléoclimatiques en un lieu donné nécessite donc d’utiliser l’équation spécifique à ce lieu.
 
-<img align="center" src="http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/cor_temp.gif" alt="">
+<p align="center"> <img src="http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/cor_temp.gif" alt=""></p>
 
 
 *Jouzel J., C. Lorius, S. Johnsen and P. Grootes, 1994 :  

@@ -4,17 +4,20 @@ La carte des reliefs terrestres montre une variation des altitudes à la surface
 
 La comparaison des cartes présentant les âges de la croûte continentale (document 4 page 149) et de la croûte océanique (rabat livre) montre une différence d'âge importante: la croûte océanique la plus âgée n'excède pas 200 Ma tandis que la croûte continentale peut atteindre 4 Ga. On observe d'autre part que la croûte continentale la plus jeune est localisée au niveau des zones de subduction.
 
-<p aligne="center">Comment expliquer les particularités de la lithosphère continentale ?</p>
+<p align="center">Comment expliquer les particularités de la lithosphère continentale ?</p>
 
 Pb 1: Comment expliquer les variations d'altitudes sur terre ?
+
 Pb 2: Comment expliquer l'épaississement crustal à l'origine de la formation des reliefs ?
+
 Pb 3: Comment est produite la lithosphère continentale ?
+
 Pb 4: Comment expliquer que la lithosphère continentale ait conservé des roches de plus de 200 Ma ?
 
 
 ## Chapitre 1: Les variations d'altitudes sur terre.
 
-<p aligne="center">Comment les propriétés de la lithosphère continentale expliquent elles les différences d'altitudes sur terre</p>
+<p align="center">Comment les propriétés de la lithosphère continentale expliquent elles les différences d'altitudes sur terre</p>
 
 --> Activité 1: Les différences d'altitudes entre les océans et les continents
 
@@ -40,7 +43,7 @@ Dans le phénomène d’isostasie, la limite qui sépare la croûte rigide du ma
 
 ## Chapitre 2: La formation des reliefs
 
-<p aligne="center">Comment expliquer l'épaississement crustal à l'origine de la formation des reliefs ?</p>
+<p align="center">Comment expliquer l'épaississement crustal à l'origine de la formation des reliefs ?</p>
 
 ### I: L'épaississement crustal
 
@@ -68,7 +71,8 @@ Dans un contexte tectonique convergeant, des contraintes compressives ont provoq
 
 ### II: La convergence lithosphérique: contexte de la formation des chaînes de montagnes
 
---> Activité 4: Les vestiges de l'ouverture et de l'expansion d'un ancien océan au sein des alpes 
+--> Activité 4: Les vestiges de l'ouverture et de l'expansion d'un ancien océan au sein des alpes
+
 --> Activité 5: Les indices métamorphiques de la subduction
 
 #### 1: Les indices de l'ouverture  d'un ancien domaine océanique au sein des Alpes: Le plateau des lacs de l'Alpe d'Huez

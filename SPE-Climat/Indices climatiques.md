@@ -23,17 +23,16 @@ Lorsque la concentration en 18O de l'eau diminue le δ18O diminue.
 
 <p align="center">Moyennes mensuelles du δ18O des eaux de précipitation:</p>
 
-  |  |  
- ------------ | :-----------: | 
-![](http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob2-O18.gif)  |  ![](http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob3-O18.gif) |
-
+ 
 <table>
-  <tr>
-    <td><img src="http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob2-O18.gif" alt="Italian Trulli"></td>
-    <td><img src="http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob3-O18.gif" alt=""</td> 
+
+<tr>
+<td><img src="http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob2-O18.gif" alt=""></td>
     
-  </tr>
-  </table>
+<td><img src="http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/glob3-O18.gif" alt=""></td> 
+    
+</tr>
+</table>
 
 
 Le δ18O varie en fonction de la latitude: plus la latitude est élevée plus le δ18O est faible. Le δ18O varie aussi en fonction du temps (saisons); il est plus faible en janvier qu'en juillet. La variation temporelle s'observe surtout aux hautes latitudes.
@@ -44,10 +43,22 @@ Ces variations spatiales et temporelles suggèrent une influence de la températ
 
 Le dossier temp_18o contient des fichiers xlsx mettant en relation la date, le δ18O mesuré dans l’eau de pluie et la température mesurée , en différents lieux. On peut donc tracer les graphiques suivants : δ18O = f(température) et afficher leurs droites de régression, ainsi que leurs équations et coefficients de corrélation R, pour différents lieux.
 
-  |  |  
- ------------ | :-----------: | 
-![](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/halley.png)		  |   ![](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/murmansk.png)	|	
-![](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/barrow.png)	| ![](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/kinshasa.png) |
+
+
+<table>
+
+<tr>
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/halley.png" alt=""></td>
+    
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/murmansk.png" alt=""></td> 
+
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/barrow.png" alt=""></td> 
+
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/kinshasa.png" alt=""></td> 
+
+</tr>
+</table>
+
 
 
 En fonction du lieu choisi, il n'existe pas toujours une corrélation entre les valeurs du δ18O des eaux de précipitations et la moyenne mensuelle (ou annuelle) des températures de l'air. La corrélation est forte (les points s'alignent) aux hautes latitudes (Pôles), mais très faibles (mauvais alignement, points dispersés) aux faibles latitudes (Équateur).
@@ -78,15 +89,31 @@ Les carottes de glaces, issues des forages réalisés en Antarctique (pôle Sud)
 
 Le dossier ice_18o contient des fichiers xlsx qui mettent en relation, pour différents forages, l’âge de la glace, et le δ18O mesuré:
 
-  |  |  
- ------------ | :-----------: | 
-![](IMG_1983.PNG)		  |   ![](IMG_1984.PNG)	|
+<table>
+
+<tr>
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/delta_vostok.png" alt=""></td>
+    
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/delta_grip.png" alt=""></td> 
+
+</tr>
+</table>
+
+
+
 
 Connaissant la relation entre la température et le delta isotopique de l'eau (équations des droites de Jouzel à Vostok et à GRIP),  on peut alors déterminer la température qui régnait au moment des précipitations à l'origine des échantillons de glace en antarctique et en arctique:
 
-  |  |  
- ------------ | :-----------: | 
-![](IMG_1987.PNG)		  |   ![](IMG_1985.PNG)	|
+<table>
+
+<tr>
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/temp_vostok.png" alt=""></td>
+    
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/temp_grip.png" alt=""></td> 
+
+</tr>
+</table>
+
 
 L'application de l'équation de la droite de Jouzel montre que la température actuelle en Antarctique est de - 62°, alors qu'il y a 21000 ans lors du dernier minima du δD la température était de -70°. Il y' a 21000 ans la température au dessus de l'antarctique était inférieure de 8°C à la température actuelle. On trouve un écart de 10° C pour le Groenland.
 

@@ -13,7 +13,7 @@ Il existe plusieurs isotopes stables de l'oxygène dont 16O et 18O qui sont les 
 
 Le δ18O indique la différence entre le rapport 18O / 16O mesuré dans échantillon d'eau et le rapport 18O / 16O moyen des océans actuels  (nommé SMOW). Il est exprimé en pour mille et il se calcule selon la formule suivante :
 
-<p style="text-align:center;">δ18O = 1000 . [(18O/16O)mesuré/(18O/16O)SMOW - 1]</p>
+<p align="center">δ18O = 1000 . [(18O/16O)mesuré/(18O/16O)SMOW - 1]</p>
 
 SMOW désigne la composition moyenne de l’océan (Standard Mean Ocean Water), qui vaut :  (18O/16O)SMOW = 2005,2.10-6
 
@@ -21,7 +21,7 @@ Lorsque la concentration en 18O de l'eau diminue le δ18O diminue.
 
 ### Les variations du δ18O.
 
-<p style="text-align:center;">Moyennes mensuelles du δ18O des eaux de précipitation:</p>
+<p align="center">Moyennes mensuelles du δ18O des eaux de précipitation:</p>
 
   |  |  
  ------------ | :-----------: | 

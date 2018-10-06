@@ -52,6 +52,10 @@ Le dossier temp_18o contient des fichiers xlsx mettant en relation la date, le �
     
 <td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/murmansk.png" alt=""></td> 
 
+</tr>
+
+<tr>
+
 <td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/barrow.png" alt=""></td> 
 
 <td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/kinshasa.png" alt=""></td> 
@@ -71,7 +75,9 @@ Aux hautes latitudes, si on connaît (mesure) le δ18O, on peut alors détermine
 
 Les équations des droites de régression varient en fonction de la localisation. L’utilisation du δ18O pour reconstituer les variations paléoclimatiques en un lieu donné nécessite donc d’utiliser l’équation spécifique à ce lieu.
 
+<p align="center">
 ![](http://acces.ens-lyon.fr/acces/thematiques/paleo/variations/paleoclimats/images/cor_temp.gif)
+</p>
 
 *Jouzel J., C. Lorius, S. Johnsen and P. Grootes, 1994 :  
 Climate instabilities : Greenland and Antarctic records. 

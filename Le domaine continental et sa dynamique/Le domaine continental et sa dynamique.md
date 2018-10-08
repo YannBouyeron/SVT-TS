@@ -107,3 +107,9 @@ La formation des chaînes de montagnes s'inscrit dans un contexte tectonique con
 la fermeture d'un domaine océanique (subduction océanique) entraînant le rapprochement des domaines continentaux,
 la subduction continentale, 
 puis la collision à l'origine des reliefs.
+
+#### Conclusion: l'histoire d'une chaine de montagne - exemple des Alpes
+
+[Diaporama](https://github.com/YannBouyeron/SVT-TS/blob/master/Le%20domaine%20continental%20et%20sa%20dynamique/Petite%20histoire%20des%20alpes%20.pdf)
+
+

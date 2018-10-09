@@ -123,3 +123,87 @@ Connaissant la relation entre la température et le delta isotopique de l'eau (�
 L'application de l'équation de la droite de Jouzel montre que la température actuelle en Antarctique est de - 62°, alors qu'il y a 21000 ans lors du dernier minima du δD la température était de -70°. Il y' a 21000 ans la température au dessus de l'antarctique était inférieure de 8°C à la température actuelle. On trouve un écart de 10° C pour le Groenland.
 
 L'analyse du δ18O (ou du δD) des carottes glaciaires met ainsi en évidence sur 400 000 ans une alternance de périodes froides (δ faible) et de périodes chaudes (δ élevé) avec un écart de température d'une dizaine de degrés Celsius. Ces périodes sont approximativement synchrones en Antarctique et au Groenland. Il s'agit donc de changements globaux d'un ou plusieurs paramètres du climat. Ces périodes "froides" (périodes glaciaires) ont une périodicité de 100 000 ans et sont entrecoupées de périodes chaudes (périodes inter-glaciaires) d'environ 10 000 ans.
+
+## Le delta isotopique des foraminifères benthiques.
+
+Les foraminifères sont des organismes unicellulaires hétérotrophes (protozoaires) aquatiques. Ils vivent dans un test calcaire («coquille» constituée de carbonate de calcium: CaCO3 contenant du 18O et du 16O) qui s'accumule à leur mort dans certaines conditions sur les fonds marins. Le groupe est très diversifié tant d'un point de vue morphologique que biologique. Ainsi certaines espèces sont planctoniques alors que d'autres vivent sur les fonds océaniques (on les dit alors benthiques) où la température est considérée constante au cours du temps.
+
+
+
+
+### Les facteurs influençant le δ18O des foraminifères 
+
+
+Le δ18O des foraminifères dépend de la température et du δ18O de l'eau de mer: 
+
+- Corrélation positive entre le δ18O des foraminifères et le δ18O de l'eau de mer:      
+
+<p align="center">δ18O foraminifères = f (δ18O eau de mer)</p>
+
+- Corrélation négative entre le δ18O des foraminifères et la température de l'eau de mer:     
+
+<p align="center">δ18O foraminifères = - f (T° eau)</p>
+
+
+
+Les foraminifères benthiques vivent au fond des océans où la température est constante; le δ18O des FB dépend donc uniquement du δ18O de l'eau: il existe une corrélation positive entre le δ18O des foraminifères benthiques et le δ18O de l'eau de mer: 
+
+<p align="center">δ18O FB = f (δ18O eau de mer)</p>
+
+### Les facteurs influençant le δ18O de l’eau des océans
+
+En période plus froide qu'actuellement, l'eau s'évapore sous les tropiques, précipite sous forme de neige et s'accumule sous forme de glace dans les glaciers et les calottes polaires; donc le volume des océans diminue tandis que le volume des calottes polaires augmente. 
+
+L'eau qui s'évapore des océans et qui s'accumule sous forme de glace est appauvrie en 18O ( δ18O de la glace polaire = -40 à – 50 pour mille); l'eau qui reste dans les océans se retrouve donc relativement enrichie en 18O; le δ18O de l'eau de mer est alors supérieur à l'actuel c'est à dire supérieur à 0.
+
+<p></p>
+
+En période plus chaude qu'actuellement, la glace des calottes polaires fond et le volume des océans augmente. 
+
+L'eau provenant de la fonte des calottes polaires qui retourne aux océans est appauvrie en 18O; le δ18O de l'eau de mer diminue et devient alors inférieur à l'actuel c'est à dire inférieur à 0
+
+<p></p>
+
+On en déduit que le δ18O de l'eau de mer dépend du volume relatif entre les océans et les calottes glaciaires: il existe une corrélation positive entre le δ18O de l'eau de mer et le volume des calottes glaciaires: 
+
+<p align="center">δ18O eau de mer = f (volume calottes glaciaires)</p>
+
+
+Le volume des calottes glaciaires dépendant du climat global:
+
+<p align="center"> V calottes = -f (T° globale)</p>
+
+Le δ18O de l'eau de mer dépend donc aussi du climat global: il existe une corrélation négative entre le δ18O de l'eau de mer et la température globale: 
+
+<p align= "center">δ18O eau de mer = - f (T° globale)</p>
+
+
+
+
+Il existe donc une corrélation négative entre le δ18O des FB et le climat global:   
+
+<p align="center"> δ18O FB = - f (T° globale) </p>
+
+
+Les forages des fonds océaniques donnent accès à des sédiments océaniques contenant des restes de tests calcaires de foraminifères que l'on peut dater (plus les sédiments sont profonds plus ils sont anciens). Ces données sont disponibles dans le dossier ocean_18o. En mesurant le δ18O de ces tests calcaires, et connaissant la relation ci dessus, il serra alors possible de reconstituer les variations paléo-climatiques:
+
+Une augmentation du δ18O des FB témoigne d'une augmentation du volume des calottes glaciaires, c'est à dire d'un refroidissement climatique. 
+
+Une diminution du δ18O des FB témoigne d'une diminution du volume des calottes glaciaires, c'est à dire  d'un réchauffement climatique.   
+
+<table>
+
+<tr>
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/005F1C01-21DB-4DD0-AEAE-83C6B2C69395.png" alt=""></td>
+    
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/B9538594-CC79-4349-92B5-11F60559D37B.png" alt=""></td> 
+
+
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/C39FBB1D-DC80-4164-AA90-E89B75CE6DEF.png" alt=""></td> 
+
+</tr>
+</table>
+
+
+
+Le δ18O des foraminifères benthiques dépend du volume relatif océans / calottes glaciaires et donc du climat. Les mesures du δ18O des tests calcaires des foraminifères benthiques des sédiments océaniques, mettent ainsi en évidence une alternance de périodes à δ18O des FB élevé c'est à dire des périodes plus froides qu'actuellement (périodes glaciaires d'environ 80 000 ans) , entrecoupées de périodes à δ18O des FB faible c'est à dire des périodes plus chaudes qu'actuellement (périodes interglaciaires d'environ 15 000 ans). Ces résultats sont concordants (mêmes variations paléo-climatiques) sur les trois forages océaniques étudiés, et concordants avec les résultats issus du delta isotopique des glaces polaires; ils traduisent des changements climatiques globaux à l'échelle planétaire.

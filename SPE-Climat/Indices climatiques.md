@@ -138,58 +138,56 @@ Le δ18O des foraminifères dépend de la température et du δ18O de l'eau de m
 
 - Corrélation positive entre le δ18O des foraminifères et le δ18O de l'eau de mer:      
 
-<p align="center">δ18O foraminifères = f (δ18O eau de mer)</p>
+<h6 align="center">δ18O foraminifères = f (δ18O eau de mer)</h6>
 
 - Corrélation négative entre le δ18O des foraminifères et la température de l'eau de mer:     
 
-<p align="center">δ18O foraminifères = - f (T° eau)</p>
+<h6 align="center">δ18O foraminifères = - f (T° eau)</h6>
 
 
 
-Les foraminifères benthiques vivent au fond des océans où la température est constante; le δ18O des FB dépend donc uniquement du δ18O de l'eau: il existe une corrélation positive entre le δ18O des foraminifères benthiques et le δ18O de l'eau de mer: 
+Les foraminifères benthiques (FB) vivent au fond des océans où la température est constante; le δ18O des foraminifères benthiques dépend donc uniquement du δ18O de l'eau: il existe une corrélation positive entre le δ18O des foraminifères benthiques et le δ18O de l'eau de mer: 
 
-<p align="center">δ18O FB = f (δ18O eau de mer)</p>
+<h6 align="center">δ18O FB = f (δ18O eau de mer)</h6>
 
 ### Les facteurs influençant le δ18O de l’eau des océans
 
 En période plus froide qu'actuellement, l'eau s'évapore sous les tropiques, précipite sous forme de neige et s'accumule sous forme de glace dans les glaciers et les calottes polaires; donc le volume des océans diminue tandis que le volume des calottes polaires augmente. 
-
 L'eau qui s'évapore des océans et qui s'accumule sous forme de glace est appauvrie en 18O ( δ18O de la glace polaire = -40 à – 50 pour mille); l'eau qui reste dans les océans se retrouve donc relativement enrichie en 18O; le δ18O de l'eau de mer est alors supérieur à l'actuel c'est à dire supérieur à 0.
 
 <p></p>
 
 En période plus chaude qu'actuellement, la glace des calottes polaires fond et le volume des océans augmente. 
-
 L'eau provenant de la fonte des calottes polaires qui retourne aux océans est appauvrie en 18O; le δ18O de l'eau de mer diminue et devient alors inférieur à l'actuel c'est à dire inférieur à 0
 
 <p></p>
 
 On en déduit que le δ18O de l'eau de mer dépend du volume relatif entre les océans et les calottes glaciaires: il existe une corrélation positive entre le δ18O de l'eau de mer et le volume des calottes glaciaires: 
 
-<p align="center">δ18O eau de mer = f (volume calottes glaciaires)</p>
+<h6 align="center">δ18O eau de mer = f (volume calottes glaciaires)</h6>
 
 
-Le volume des calottes glaciaires dépendant du climat global:
+Le volume des calottes glaciaires dépend du climat global:
 
-<p align="center"> V calottes = -f (T° globale)</p>
+<h6 align="center"> V calottes = -f (T° globale)</h6>
 
 Le δ18O de l'eau de mer dépend donc aussi du climat global: il existe une corrélation négative entre le δ18O de l'eau de mer et la température globale: 
 
-<p align= "center">δ18O eau de mer = - f (T° globale)</p>
+<h6 align= "center">δ18O eau de mer = - f (T° globale)</h6>
 
 
 
 
 Il existe donc une corrélation négative entre le δ18O des FB et le climat global:   
 
-<p align="center"> δ18O FB = - f (T° globale) </p>
+<h6 align="center"> δ18O FB = - f (T° globale) </h6>
 
 
-Les forages des fonds océaniques donnent accès à des sédiments océaniques contenant des restes de tests calcaires de foraminifères que l'on peut dater (plus les sédiments sont profonds plus ils sont anciens). Ces données sont disponibles dans le dossier ocean_18o. En mesurant le δ18O de ces tests calcaires, et connaissant la relation ci dessus, il serra alors possible de reconstituer les variations paléo-climatiques:
+Les forages des fonds océaniques donnent accès à des sédiments océaniques contenant des restes de tests calcaires de foraminifères que l'on peut dater (plus les sédiments sont profonds plus ils sont anciens). Ces données sont disponibles dans le dossier ocea_o18. En mesurant le δ18O de ces tests calcaires, et connaissant la relation ci dessus, il est alors possible de reconstituer les variations paléo-climatiques:
 
-Une augmentation du δ18O des FB témoigne d'une augmentation du volume des calottes glaciaires, c'est à dire d'un refroidissement climatique. 
+- Une augmentation du δ18O des FB témoigne d'une augmentation du volume des calottes glaciaires, c'est à dire d'un refroidissement climatique. 
 
-Une diminution du δ18O des FB témoigne d'une diminution du volume des calottes glaciaires, c'est à dire  d'un réchauffement climatique.   
+- Une diminution du δ18O des FB témoigne d'une diminution du volume des calottes glaciaires, c'est à dire  d'un réchauffement climatique.   
 
 <table>
 
@@ -206,4 +204,4 @@ Une diminution du δ18O des FB témoigne d'une diminution du volume des calottes
 
 
 
-Le δ18O des foraminifères benthiques dépend du volume relatif océans / calottes glaciaires et donc du climat. Les mesures du δ18O des tests calcaires des foraminifères benthiques des sédiments océaniques, mettent ainsi en évidence une alternance de périodes à δ18O des FB élevé c'est à dire des périodes plus froides qu'actuellement (périodes glaciaires d'environ 80 000 ans) , entrecoupées de périodes à δ18O des FB faible c'est à dire des périodes plus chaudes qu'actuellement (périodes interglaciaires d'environ 15 000 ans). Ces résultats sont concordants (mêmes variations paléo-climatiques) sur les trois forages océaniques étudiés, et concordants avec les résultats issus du delta isotopique des glaces polaires; ils traduisent des changements climatiques globaux à l'échelle planétaire.
+Le δ18O des foraminifères benthiques dépend du volume relatif océans / calottes glaciaires et donc du climat. Les mesures du δ18O des tests calcaires des foraminifères benthiques des sédiments océaniques, mettent ainsi en évidence une alternance de périodes à δ18O des formainifères benthiques élevé c'est à dire des périodes plus froides qu'actuellement (périodes glaciaires d'environ 80 000 ans) , entrecoupées de périodes à δ18O des foraminifères benthiques faible c'est à dire des périodes plus chaudes qu'actuellement (périodes interglaciaires d'environ 15 000 ans). Ces résultats sont concordants (mêmes variations paléo-climatiques) sur les trois forages océaniques étudiés, et concordants avec les résultats issus du delta isotopique des glaces polaires; ils traduisent des changements climatiques globaux à l'échelle planétaire.

@@ -192,12 +192,12 @@ Les forages des fonds océaniques donnent accès à des sédiments océaniques c
 <table>
 
 <tr>
-<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/005F1C01-21DB-4DD0-AEAE-83C6B2C69395.png" alt=""></td>
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/75D13DDD-D4A1-452F-BE36-0FF4B9A2070C.png" alt=""></td>
     
-<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/B9538594-CC79-4349-92B5-11F60559D37B.png" alt=""></td> 
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/BF36B891-1BD7-46B0-B487-C4BD165AC9BA.png" alt=""></td> 
 
 
-<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/C39FBB1D-DC80-4164-AA90-E89B75CE6DEF.png" alt=""></td> 
+<td><img src="https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Climat/doc/F0D26D5F-1C26-4AFE-827C-4E6734A5E6D9.png" alt=""></td> 
 
 </tr>
 </table>

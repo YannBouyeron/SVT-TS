@@ -225,22 +225,29 @@ La composition d'un peuplement végétal est donc un indicateur des conditions c
 
 En effet, les pollens présentent des caractéristiques favorables à ce type d'études:
 
-Les grains de pollens présentent des formes particulières qui permettent de les distinguer au microscope. 
-Chaque espèce végétale produit un seul type de grain de pollen qui lui est caractéristique. 
-Les grains de pollen possèdent une enveloppe très résistante qui permet leur conservation et leur accumulation dans les sédiments (leur conservation est favorisée par l'acidité des tourbières).
-Les pollens possèdent une forme et une structure qui permet leur dispersion sur une échelle géographique suffisante pour pouvoir s'accumuler dans les tourbières, et telle que la reconstitution réalisée est caractéristique d'un peuplement végétal régional, donc d'un climat local. 
+- Les grains de pollens présentent des formes particulières qui permettent de les distinguer au microscope. 
 
-Ainsi, le recensement des pollens présents à une même profondeur d'une carotte de sédiments ou de tourbe (spectre pollinique) permet d’estimer les proportions d’espèces végétales à un âge donné et donc de déterminer le climats régnant sur le site au moment de la sédimentation. [Postulat de base: les espèces dont on utilise le pollen ou les spores existaient déjà au début du Quaternaire et n'ont pas évolué depuis (ni au niveau de leur pollen, ni au niveau de leur écologie... Principe d'actualisme)]
+- Chaque espèce végétale produit un seul type de grain de pollen qui lui est caractéristique. 
+
+- Les grains de pollen possèdent une enveloppe très résistante qui permet leur conservation et leur accumulation dans les sédiments (leur conservation est favorisée par l'acidité des tourbières).
+
+- Les pollens possèdent une forme et une structure qui permet leur dispersion sur une échelle géographique suffisante pour pouvoir s'accumuler dans les tourbières, et telle que la reconstitution réalisée est caractéristique d'un peuplement végétal régional, donc d'un climat local. 
+
+
+Ainsi, le recensement des pollens présents à une même profondeur d'une carotte de sédiments ou de tourbe (spectre pollinique) permet d’estimer les proportions d’espèces végétales à un âge donné et donc de déterminer le climats régnant sur le site au moment de la sédimentation. (Postulat de base: les espèces dont on utilise le pollen ou les spores existaient déjà au début du Quaternaire et n'ont pas évolué depuis (ni au niveau de leur pollen, ni au niveau de leur écologie... Principe d'actualisme))
 
 
 ### La reconstitution des variations paléo-climatiques à partir de l'analyse des diagrammes polliniques 
 
 Un spectre pollinique permet de réaliser un « instantané » sur le climat régional à l’époque de la sédimentation. Différents spectres polliniques superposés forment un diagramme pollinique qui permet de reconstituer les fluctuations climatiques au cours du temps. On distingue ainsi 4 périodes sur le diagramme pollinique de la vallée de Wormsa (pages 82-83):
 
-De -17000 à -13500 ans: peuplement de type steppe caractéristique d'un climat sec.
-De -13500 à -10000 ans: peuplement de type forêt boréale caractéristique d'un climat plus humide et plus froid.
-De -10000 à -7000 ans: peuplement de type forêt tempérée de feuillus caractéristique d'un climat humide et plus "chaud" (tempéré).
-De -7000 à l'actuel: le peuplement ce modifie un peu (diminution de l'abondance relative du noisetier, augmentation de celles du sapin et du hêtre) mais reste caractéristique d'un climat humide tempéré.
+- De -17000 à -13500 ans: peuplement de type steppe caractéristique d'un climat sec.
+
+- De -13500 à -10000 ans: peuplement de type forêt boréale caractéristique d'un climat plus humide et plus froid.
+
+- De -10000 à -7000 ans: peuplement de type forêt tempérée de feuillus caractéristique d'un climat humide et plus "chaud" (tempéré).
+
+- De -7000 à l'actuel: le peuplement ce modifie un peu (diminution de l'abondance relative du noisetier, augmentation de celles du sapin et du hêtre) mais reste caractéristique d'un climat humide tempéré.
 
 Ce diagramme pollinique met ainsi en évidence un réchauffement climatique régional sur la période considérée.
 

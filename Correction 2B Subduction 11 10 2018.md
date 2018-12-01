@@ -6,9 +6,9 @@ Les ceintures orogéniques ou chaînes de montagnes telles que les Alpes sont de
 
 L’Himalaya est la ceinture orogénique présentant les reliefs les plus importants de notre planète.
 
-<p style="color:black;text-align:center;font-size:px;">Comment expliquer la formation de l’Himalaya ?</p>
+<p align="center">Comment expliquer la formation de l’Himalaya ?</p>
 
-<p style="color:grey;text-align:center;font-size:px;">Comme les Alpes, l’Himalaya serait une chaîne de collision qui se serait formée après la subduction océanique et continentale.</p>
+<p align="center"">Comme les Alpes, l’Himalaya serait une chaîne de collision qui se serait formée après la subduction océanique et continentale.</p>
 
 # Le contexte tectonique de la région himalayenne
 

@@ -8,7 +8,7 @@ L’Himalaya est la ceinture orogénique présentant les reliefs les plus import
 
 <p align="center">Comment expliquer la formation de l’Himalaya ?</p>
 
-<p align="center"">Comme les Alpes, l’Himalaya serait une chaîne de collision qui se serait formée après la subduction océanique et continentale.</p>
+<p color:"grey">Comme les Alpes, l’Himalaya serait une chaîne de collision qui se serait formée après la subduction océanique et continentale.</p>
 
 # Le contexte tectonique de la région himalayenne
 

@@ -15,11 +15,11 @@ Les deux formes d'épinoches appartiennent à la même espèce : Gasterosteus ac
 Aucun élément ne permet de déterminer l'origine marine ou lacustre de la population ancestrale dont sont issues les deux formes actuelles d'épinoches. De même, on ne connait pas le phénotype des épinoches de cette population ancestrale. Nous supposerons pour la suite de notre raisonnement que les deux formes actuelles d'épinoches seraient issues d'une population ancestrale marine possédant déjà des nageoires pelviennes épineuses.
 
 >D'autres hypothèses étaient envisageables:  
-
+>
 >1. Population ancestrale marine avec nageoires pelviennes non épineuses.
-2. Population ancestrale marine sans nageoires pelviennes 
-3. Population ancestrale lacustre avec nageoires pelviennes épineuses ou non
-4. Population ancestrale lacustre sans nageoires pelviennes
+>2. Population ancestrale marine sans nageoires pelviennes 
+>3. Population ancestrale lacustre avec nageoires pelviennes épineuses ou non
+>4. Population ancestrale lacustre sans nageoires pelviennes
 
 >Les hypothèses 2 et 4 étant moins pertinentes par rapport au problème posé .
 

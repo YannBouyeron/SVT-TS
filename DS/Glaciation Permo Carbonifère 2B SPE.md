@@ -6,7 +6,7 @@ Les temps géologiques ont été marqués par une alternance d’ères glaciaire
 
 Le Permo-Carbonifère, un ensemble de deux systèmes géologiques s’étendant de - 350 Ma à - 240 Ma, a été marqué par l’installation et le maintient d’une glaciation.
 
-<p style="color:black;text-align:center;font-size:px;">Comment expliquer l’installation d’une glaciation au Permo-Carbonifère ?</p>
+<p style="text-align:center;">Comment expliquer l’installation d’une glaciation au Permo-Carbonifère ?</p>
 
 ### L’altération des silicates: un mécanisme initiateur.
 

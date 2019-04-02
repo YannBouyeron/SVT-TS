@@ -1,4 +1,4 @@
-## Thème 4: Le maintien de l’intégrité de l’organisme : quelques aspects de la réaction immunitaire
+###### Thème 4: Le maintien de l’intégrité de l’organisme : quelques aspects de la réaction immunitaire
 
 ### Activité 2: Le mode d'action d'un anti-inflammatoire.     CORRECTION
 

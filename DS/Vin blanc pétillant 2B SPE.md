@@ -4,9 +4,9 @@
 
 La qualité d’un vin dépend notamment du cépage (variétés des vignes produisant le raisin utilisé pour fabriquer le vin), du climat, du sol, mais également des processus de vinification. Ces processus de vinification sont à l’origine de la très grande diversité des vins (blancs, rosés, rouges, pétillants...) 
 
-<p text-align:center>Comment expliquer au niveau cellulaire la transformation d’un vin blanc en vin blanc pétillant ? </p>
+<p align:"center">Comment expliquer au niveau cellulaire la transformation d’un vin blanc en vin blanc pétillant ? </p>
 
-<p style="color:grey;text-align:center;">Cette transformation serait due à une maitrise du métabolisme cellulaire des levures.</p>
+<p color:"grey" align:"center">Cette transformation serait due à une maitrise du métabolisme cellulaire des levures.</p>
 
 
 #### Le métabolisme énergétique des levures.

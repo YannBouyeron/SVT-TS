@@ -22,6 +22,8 @@ Lors d’une infection par un pathogène:
 
 ### La myasthénie : une maladie auto-immune.
 
+La contraction musculaire implique une communication synaptique entre un neurone moteur et la plaque motrice d'une fibre musculaire. 
+
 Chez un individu sain, l’arrivée d’un message nerveux (train de potentiels d’actions) dans la terminaison synaptique d’un neurone moteur, induit l’exocytose des vésicules de neurotransmetteurs au niveau des boutons synaptiques. Les neurotransmetteurs libérés dans la fente synaptique se fixent (par complémentarité de forme tridimensionnelle) sur des récepteurs post synaptiques situés sur la membrane plasmique de la fibre musculaire. Cette intéraction spécifique entre les neurotransmetteurs et les récepteurs post synaptique induit la génèse d’un ou plusieurs potentiel d’action musculaire provoquant la contraction du muscle.
 
 

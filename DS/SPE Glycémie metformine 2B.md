@@ -13,7 +13,7 @@ Le médicament le plus prescrit pour traiter le diabète de type 2 est la metfor
 
 <p></p>
 
-**<h6 style="color:black;text-align:center;font-style:border;">Problème: Comment la metformine permet elle de diminuer la glycémie des diabètiques de type 2 ?</h6>**
+<h4 style="color:black;text-align:center;font-style:border;">Problème: Comment la metformine permet elle de diminuer la glycémie des diabètiques de type 2 ?</h4>
 
 <p></p>
 

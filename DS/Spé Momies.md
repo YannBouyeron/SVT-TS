@@ -1,6 +1,6 @@
 # Reconstitution de l’évolution des précipitations en Afrique intertropicale entre 5500 BP et 1500 BP
 
-Le climat de la fin du quaternaire (800 000 dernières années) a été marqué par une alternance de périodes glaciaires (d’environ 100 000 ans) entrecoupées par des périodes interglaciaires (d’environ 20 000 ans). La terre se trouve actuellement dans une période interglaciaire marqué par un réchauffement climatique global initié il y’a environ 21 000 ans.
+Le climat de la fin du quaternaire (800 000 dernières années) a été marqué par une alternance de périodes glaciaires (d’environ 100 000 ans) entrecoupées par des périodes interglaciaires (d’environ 20 000 ans). La terre se trouve actuellement dans une période interglaciaire marquée par un réchauffement climatique global initié il y’a environ 21 000 ans.
 
 <p align=center>Comment le réchauffement climatique de l’interglaciaire actuel a-t-ill affecté le climat local Africain ?</p>
 

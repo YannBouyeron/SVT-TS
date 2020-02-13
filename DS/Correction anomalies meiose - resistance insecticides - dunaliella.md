@@ -2,7 +2,7 @@
 
 L’alternance méiose / fécondation assure la stabilité du caryotype au cours des générations tout en créant de la diversité génétique grâce aux brassages de la méiose et de la fécondation qui permettent de créer de nouveaux génotypes.
 
-<p align=center><strong>Quels sont les conséquences possibles des anomalies qui surviennent lors de la méiose et la fécondation ?</strong></p>
+<p align=center><strong>Quelles sont les conséquences possibles des anomalies qui surviennent lors de la méiose et la fécondation ?</strong></p>
 
 **Le déroulement normal de la méiose et de la fécondation**
 

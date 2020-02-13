@@ -2,7 +2,7 @@
 
 L’alternance méiose / fécondation assure la stabilité du caryotype au cours des générations tout en créant de la diversité génétique grâce aux brassages de la méiose et de la fécondation qui permettent de créer de nouveaux génotypes.
 
-<p class=center><strong>Quels sont les conséquences possibles des anomalies qui surviennent lors de la méiose et la fécondation ?</strong></p>
+<p align=center><strong>Quels sont les conséquences possibles des anomalies qui surviennent lors de la méiose et la fécondation ?</strong></p>
 
 **Le déroulement normal de la méiose et de la fécondation**
 
@@ -20,7 +20,7 @@ L’alternance méiose / fécondation assure la stabilité du caryotype au cours
 - Si un gamète aneusomique participe à la fécondation, le zygote sera monosmique pour le chromosome considéré
 - Si un gamète disomique participe à la fécondation, le zygote sera trisomique pour le chromosome considéré
 - La majorité des anomalies chromosomiques affectant un zygote ne permettent pas son développement
-- [Schéma annoté disjonction tardive anaphase I](https://ipfs.io/ipfs/QmRRXDxZDyjbYYbcYpr8Yz2a7tiShCBWibPPyBMUYNo1Ji),[Schéma annoté disjonction tardive anaphase II](https://ipfs.io/ipfs/QmV3PDpFeXuQeEkriYcCBkeaRKRCuaAX3gmS1uNRKvVecS)
+- [Schéma annoté disjonction tardive anaphase I](https://ipfs.io/ipfs/QmRRXDxZDyjbYYbcYpr8Yz2a7tiShCBWibPPyBMUYNo1Ji) , [Schéma annoté disjonction tardive anaphase II](https://ipfs.io/ipfs/QmV3PDpFeXuQeEkriYcCBkeaRKRCuaAX3gmS1uNRKvVecS)
 
 **Les conséquences d’une anomalie pouvant se produire en prophase I**
 
@@ -65,9 +65,9 @@ Dans les zones non traitées aux insecticides organophosphorés, les moustiques 
 
 Dunaliella salina est une algue unicellulaire qui présente, dans certaines conditions du milieu, la capacité exceptionnelle de synthèse et d’accumulation de β-carotène. Ce pigment naturel est un pigment photosyntétique absorbant les photons et transmettant l’excitation jusqu’aux chlorophylles A des antennes collectrices. Il est également utilisé par l’Homme comme antioxydant et colorant car il est dix fois plus actif que le β-carotène de synthèse.
 
-**<p style="text-align:center;">Comment optimiser la production de β-carotène par Dunaliella salina dans les bassins de culture  ?</p>**
+**<p align=center>Comment optimiser la production de β-carotène par Dunaliella salina dans les bassins de culture  ?</p>**
 
-*<p style="text-align:center;">Hypothèse: Les conditions du milieu océanique (milieu de vie naturel de Dunaliella , [NaCl] = 0,55 M) seraient optimales pour la production de β-carotène.</p>*
+*<p align=center>Hypothèse: Les conditions du milieu océanique (milieu de vie naturel de Dunaliella , [NaCl] = 0,55 M) seraient optimales pour la production de β-carotène.</p>*
 
 
 Dunaliella salina est une algue unicellulaire possédant un chloroplaste, et produisant des carotènes lorsqu’elle est exposée à la lumière en présence de CO2. On en déduit qu’elle possède une activité photosynthétique, et que c’est cette activité photosynthétique qui lui permet de produire des carotènes. Les facteurs permettant la photosynthèse (H2O, CO2, sels minéraux, et lumière) sont donc nécessaires à la production de carotènes par ces algues.

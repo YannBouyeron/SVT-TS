@@ -31,7 +31,7 @@ L’alternance méiose / fécondation assure la stabilité du caryotype au cours
 
 <img src="https://ipfs.io/ipfs/QmPxVfzz9hJct6whC5CwuptzQ74y6EzeezKR25AQjMEwgJ" width="">
 
-## Partie 2 Exercice 1 (enseignement obligatoire) 
+## Partie 2 Exercice 2 (enseignement obligatoire) 
 
 [Lien vers le sujet Polynésie 2018](http://svt.ac-besancon.fr/bac-s-2018-polynesie/)
 
@@ -58,7 +58,7 @@ Dans les zones traitées aux insecticides organophosphorés, les moustiques rés
 Dans les zones non traitées aux insecticides organophosphorés, les moustiques résistants ne sont pas plus avantagés par rapport aux moustiques non résistants, les deux types de moustiques ont la même survie relative et le même taux de reproduction. La fréquence des allèles conférant et ne conférant pas la résistance peut varier de manière aléatoire (dérive génétique) dans la population au cours des générations, ce qui explique la faible proportion actuelle de moustiques résistants dans la zone 1 jamais traitée aux insecticides organophosphorés.
 
 
-## Partie 2 Exercice 1 (enseignement de spécialité) 
+## Partie 2 Exercice 2 (enseignement de spécialité) 
 
 [Lien vers le sujet Nouvelle Calédonie 2015](http://svt.ac-besancon.fr/bac-s-2015-nouvelle-caledonie/)
 

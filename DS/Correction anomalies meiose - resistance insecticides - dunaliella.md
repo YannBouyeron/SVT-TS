@@ -40,7 +40,7 @@ L’alternance méiose / fécondation assure la stabilité du caryotype au cours
 - Les moustiques résistants aux insecticides organophosphorés synthétisent des estérases A et / ou B
 - Les moustiques sensibles aux insecticides organophosphorés ne synthétisent pas d’estérases A ni B
 - Les moustiques de la zone 1 (jamais traitée aux insecticides organophosphorés) sont plus sensibles aux insecticides organophosphorés que les moustiques de la zone 2 (traitée aux insecticides organophosphorés depuis 1968)
-- Les estérases sont des enzymes qui catalysent la transformation (hydrolyse) du Parathon (ester toxique contenu dans les insécticides organophosphorés en molécules non toxiques pour les moustiques)
+- Les estérases sont des enzymes qui catalysent la transformation (hydrolyse) du Parathon (ester toxique contenu dans les insécticides organophosphorés) en molécules non toxiques pour les moustiques.
 
 **Éléments issus des connaissances:**
 

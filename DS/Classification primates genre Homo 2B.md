@@ -4,7 +4,7 @@
 
 Les differentes classifications ont tantôt placé l’homme et le chimpanzé au sein d’un même genre ou de deux genres différents réunis ou non au sein des primates. La classification actuelle place l’homme et le chimpanzé	 au sein de deux genres distincts (respectivement les genres Homo et Pan) tout deux réunis au sein des primates. Cepedant en 2003, les travaux de Goodman l’ont conduit à envisager de réunir à nouveau l’homme et le chimpanzé au sein d’un seul genre: le genre Homo.
 
-Problème: Comment préciser la place de l’homme et du chimpanzé au sein du groupe des primates ?
+<p align=center><strong>Comment préciser la place de l’homme et du chimpanzé au sein du groupe des primates ?</strong></p>
 
 ### Des phylogénies moléculaires contradictoires
 

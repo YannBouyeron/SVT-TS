@@ -1,6 +1,6 @@
 [Lien vers le sujet Dakar - Emirats Arabes 2019](http://svt.ac-besancon.fr/bac-s-2019-emirats-arabes-unis/)
 
-#Partie 1:  Le magmatisme des zones de subduction
+# Partie 1:  Le magmatisme des zones de subduction
 
 Le réchauffement climatique principalement induit par l’utilisation d’énergies fossiles émettrices de gaz à effet de serre nécessite de se tourner aujourd’hui vers des énérgies plus "propres" et renouvelables à l’échelle des temps humains. L’énérgie géothermique est une énérgie renouvelable qui résulte principalement de la désintégration des éléments radioactifs de la croûte et du manteau. Bien que les transferts d’énergies se fassent principalement par conduction (peu efficace) dans la lithosphère ductile, certains pays tels que le Guatemala, situé au niveau d’une zone de subduction, possèdent un flux génothermique anormalement élevé permettant l’exploitation de l’energie géothermique.
 

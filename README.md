@@ -22,3 +22,8 @@ Pour ceux (T.C, B.E.S) que je soupçonne de n’avoir encore jamais acheté le l
 - [spécialité](https://www.lib-manuels.fr/textbook/5ad5281cccacda6732522c81?demo=true&page=1)
 
 
+La correction du bac blanc est disponible:
+
+- [Partie 1](https://github.com/YannBouyeron/SVT-TS/blob/master/DS/partie%201%20guatemala%20subduction%20geothermie.md)
+- [Partie 2 exercice 2](https://github.com/YannBouyeron/SVT-TS/blob/master/DS/Classification%20primates%20genre%20Homo%202B.md)
+- [Partie 2 exercice 2 spécialité](https://github.com/YannBouyeron/SVT-TS/blob/master/DS/Spé%20Cuscute%20Luzerne.md)

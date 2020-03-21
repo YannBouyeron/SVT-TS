@@ -1,5 +1,23 @@
 ### Travail pour la semaine:
 
+**Semaine du 23-03-2020:**
+
+**SVT obligatoire:**
+
+- Faire [l'activité 2](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A2.pdf) du thème d'immunologie. **Temps estimé:1h30.**
+
+- Faire [l'exercice](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Exercice%20conservation%20immunité%20innée%20.pdf) sur la conservation de l'immunité innée. **Temps estimé: 1h30.**
+
+Vous pouvez traiter cette activité et cet exercice comme des 2B. Vous pouvez m'envoyer vos production si vous le souhaitez. Je posterai la correction vendredi.
+
+**SVT spécialité:**  
+
+- Faire [l'activité 1](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/Activité%201%20glucides%20.pdf) du thème glycémie et diabète. Envoyez moi votre demarche avant mercredi soir pour pouvoir obtenir les résultats de l'expérience que vous ne pourrez évidemment pas réaliser. **Temps estimé: 15 minutes**
+
+- Je posterai la correction de la démarche et les résultats expérimentaux mercredi soir pour que vous puissiez les interpréter. **Temps estimé: 15 minutes**
+
+- Revoir le thème [Energie et cellule vivante](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Energie/Énergie%20et%20Cellule%20vivante.pdf). Des sujets corrigés sont disponibles dans le dossier [DS](https://github.com/YannBouyeron/SVT-TS/tree/master/DS)
+
 **20-03-2020:**
 
 La correction de [l'activité 1](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A1%20correction.pdf) et le [schéma bilan de la RIA](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Réaction%20inflammatoire%20.pdf) sont disponibles.

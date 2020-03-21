@@ -8,7 +8,7 @@
 
 - Faire [l'exercice](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Exercice%20conservation%20immunité%20innée%20.pdf) sur la conservation de l'immunité innée. **Temps estimé: 1h30.**
 
-Vous pouvez traiter cette activité et cet exercice comme des 2B. Vous pouvez m'envoyer vos production si vous le souhaitez. Je posterai la correction vendredi.
+Vous pouvez traiter cette activité et cet exercice comme des 2B. Vous pouvez m'envoyer vos productions si vous le souhaitez. Je posterai la correction vendredi.
 
 **SVT spécialité:**  
 

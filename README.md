@@ -1,5 +1,9 @@
 ### Travail pour la semaine:
 
+**25-03-2020: SPE SVT**
+
+La [démarche](https://ipfs.io/ipfs/QmVKzucxwj3FLxmgzHLCvLcxh1pfdoVeKihcc5EyqpuGSa) de l'activité 1 et les résultats obsérvés sont disponibles. Réfléchissez bien aux rôles des deux témoins (tube 2 et tube 3). Il ne vous reste plus qu'à interpréter les résultats et analyser le cas clinique.
+
 **Semaine du 23-03-2020:**
 
 **SVT obligatoire:**

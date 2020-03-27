@@ -6,6 +6,8 @@
 
 - La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A2%20correction.md) de l'activité 2 est disponible.
 
+- **SPE:** La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/Activité%201%20Correction.pdf) de l'activité 1 est disponible. N'hésitez pas à poser des questions si vous navez pas bien compris la démarche et ou l'analyse !
+
 **25-03-2020: SPE SVT**
 
 La [démarche](https://ipfs.io/ipfs/QmVKzucxwj3FLxmgzHLCvLcxh1pfdoVeKihcc5EyqpuGSa) de l'activité 1 et les résultats obsérvés sont disponibles. Réfléchissez bien aux rôles des deux témoins (tube 2 et tube 3). Il ne vous reste plus qu'à interpréter les résultats et analyser le cas clinique.

@@ -1,5 +1,11 @@
 ### Travail pour la semaine:
 
+**27-03-2020:**
+
+- La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Correction%20exercice%20conservation%20immunité%20innée.md) de l'exercice sur la conservation de l'immunité innée est disponible.
+
+- La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A2%20correction.md) de l'activité 2 est disponible.
+
 **25-03-2020: SPE SVT**
 
 La [démarche](https://ipfs.io/ipfs/QmVKzucxwj3FLxmgzHLCvLcxh1pfdoVeKihcc5EyqpuGSa) de l'activité 1 et les résultats obsérvés sont disponibles. Réfléchissez bien aux rôles des deux témoins (tube 2 et tube 3). Il ne vous reste plus qu'à interpréter les résultats et analyser le cas clinique.

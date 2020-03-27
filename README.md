@@ -6,7 +6,7 @@
 
 - La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A2%20correction.md) de l'activité 2 est disponible.
 
-- **SPE:** La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/Activité%201%20Correction.pdf) de l'activité 1 est disponible. N'hésitez pas à poser des questions si vous n'avez pas bien compris la démarche et ou l'analyse !
+- **SPE:** La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/A1%20correction.pdf) de l'activité 1 est disponible. N'hésitez pas à poser des questions si vous n'avez pas bien compris la démarche et ou l'analyse !
 
 **25-03-2020: SPE SVT**
 

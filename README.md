@@ -1,11 +1,18 @@
 ### Travail pour la semaine:
 
-**Semaine du 30-03-2020:**
-
-- Préparer la démarche de l'[activité 3](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A3.md). Votre démarche devra présenter les 3 éléments suivants: Ce que je fais (= ce que je compare) - Comment je le fais (disposition des porduits dans les puits - a schématiser) - Résultats attendus.
-
 <p></br></p>
 
+______
+
+**Semaine du 30-03-2020:**
+
+- Préparer la démarche de l'[activité 3](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A3.md). Votre démarche devra présenter les 3 éléments suivants: Ce que je fais (= ce que je compare) - Comment je le fais (disposition des porduits dans les puits - a schématiser) - Résultats attendus. Je posterai les résultats mercredi pour que vous puissiez terminer l'activité. **Temps estimé: 15 minutes.**
+
+- **SPE**: Préparer la démarche de l'[activité 2](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/Activité%202%20Fonctionnement%20enzymes%20-%202016.pdf). Je posterai les résultats mercredi pour que vous puissiez terminer l'activité. **Temps estimé: 15 minutes.**
+
+______		
+
+<p></br></p>
 _______
 
 **27-03-2020:**
@@ -16,9 +23,23 @@ _______
 
 - **SPE:** La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/A1%20correction.pdf) de l'activité 1 est disponible. N'hésitez pas à poser des questions si vous n'avez pas bien compris la démarche et ou l'analyse !
 
+
+
+______
+
+<p></br></p>
+_______
+
+
 **25-03-2020: SPE SVT**
 
 La [démarche](https://ipfs.io/ipfs/QmVKzucxwj3FLxmgzHLCvLcxh1pfdoVeKihcc5EyqpuGSa) de l'activité 1 et les résultats obsérvés sont disponibles. Réfléchissez bien aux rôles des deux témoins (tube 2 et tube 3). Il ne vous reste plus qu'à interpréter les résultats et analyser le cas clinique.
+
+
+______
+
+<p></br></p>
+_______
 
 **Semaine du 23-03-2020:**
 
@@ -38,12 +59,23 @@ Vous pouvez traiter cette activité et cet exercice comme des 2B. Vous pouvez m'
 
 - Revoir le thème [Energie et cellule vivante](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Energie/Énergie%20et%20Cellule%20vivante.pdf). Des sujets corrigés sont disponibles dans le dossier [DS](https://github.com/YannBouyeron/SVT-TS/tree/master/DS)
 
+
+______
+
+<p></br></p>
+_______
+
 **20-03-2020:**
 
 La correction de [l'activité 1](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A1%20correction.pdf) et le [schéma bilan de la RIA](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Réaction%20inflammatoire%20.pdf) sont disponibles.
 
 La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Energie/Activité%205%20Correction.pdf) de l'activité 5 de spécialité sur la contraction musculaire est aussi disponible.
 
+
+______
+
+<p></br></p>
+_______
 
 **Semaine du 16-03-2020:**:
 

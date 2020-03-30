@@ -1,6 +1,5 @@
 ### Travail pour la semaine:
 
-<p></br></p>
 
 ______
 
@@ -10,9 +9,6 @@ ______
 
 - **SPE**: Préparer la démarche de l'[activité 2](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/Activité%202%20Fonctionnement%20enzymes%20-%202016.pdf). Je posterai les résultats mercredi pour que vous puissiez terminer l'activité. **Temps estimé: 15 minutes.**
 
-______		
-
-<p></br></p>
 _______
 
 **27-03-2020:**
@@ -25,9 +21,6 @@ _______
 
 
 
-______
-
-<p></br></p>
 _______
 
 
@@ -38,8 +31,6 @@ La [démarche](https://ipfs.io/ipfs/QmVKzucxwj3FLxmgzHLCvLcxh1pfdoVeKihcc5EyqpuG
 
 ______
 
-<p></br></p>
-_______
 
 **Semaine du 23-03-2020:**
 
@@ -60,9 +51,6 @@ Vous pouvez traiter cette activité et cet exercice comme des 2B. Vous pouvez m'
 - Revoir le thème [Energie et cellule vivante](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Energie/Énergie%20et%20Cellule%20vivante.pdf). Des sujets corrigés sont disponibles dans le dossier [DS](https://github.com/YannBouyeron/SVT-TS/tree/master/DS)
 
 
-______
-
-<p></br></p>
 _______
 
 **20-03-2020:**
@@ -74,8 +62,6 @@ La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Energie/A
 
 ______
 
-<p></br></p>
-_______
 
 **Semaine du 16-03-2020:**:
 

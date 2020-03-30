@@ -5,7 +5,7 @@ ______
 
 **Semaine du 30-03-2020:**
 
-- Préparer la démarche de l'[activité 3](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A3.md). Votre démarche devra présenter les 3 éléments suivants: Ce que je fais (= ce que je compare) - Comment je le fais (disposition des porduits dans les puits - a schématiser) - Résultats attendus. Je posterai les résultats mercredi pour que vous puissiez terminer l'activité. **Temps estimé: 15 minutes.**
+- Préparer la démarche de l'[activité 3](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A3.md). Votre démarche devra présenter les 3 éléments suivants: Ce que je fais (= ce que je compare) - Comment je le fais (disposition des produits dans les puits - à schématiser) - Résultats attendus. Je posterai les résultats mercredi pour que vous puissiez terminer l'activité. **Temps estimé: 15 minutes.**
 
 - **SPE**: Préparer la démarche de l'[activité 2](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/Activité%202%20Fonctionnement%20enzymes%20-%202016.pdf). Je posterai les résultats mercredi pour que vous puissiez terminer l'activité. **Temps estimé: 15 minutes.**
 

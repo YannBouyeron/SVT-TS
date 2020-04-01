@@ -5,7 +5,7 @@ ______
 
 **01-04-2020:**
 
-- La [démarche](192.168.43.206:8080/ipfs/QmSJtL3wqTxg9xCuVtUF1XYycFemHKiBp8aKZnTF8JeAGD) de l'activité 3 d'immunologie est disponible. Je n'ai pas de photo des réslutats, mais on observe 1 seul arc de rpécipitation entre S et SAB. Il vous reste à terminer l'activité. **Temps estimé: 30 minutes**
+- La [démarche](https://ipfs.io/ipfs/QmSJtL3wqTxg9xCuVtUF1XYycFemHKiBp8aKZnTF8JeAGD) de l'activité 3 d'immunologie est disponible. Je n'ai pas de photo des réslutats, mais on observe 1 seul arc de précipitation entre S et SAB. Il vous reste à terminer l'activité. **Temps estimé: 30 minutes**
 
 
 ______

@@ -2,6 +2,12 @@
 
 ______
 
+**Semaine du 06-04-2020:**
+
+- Faire [l'activité 4](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A4.pdf) d'immunologie. Cette activité necéssite (si vous le pouvez) de télécharger les logiciels [genigen](http://acces.ens-lyon.fr/acces/logiciels/applications/geniegen) et [rastop](http://acces.ens-lyon.fr/biotic/rastop/accueil.htm), et les fichiers [suivants](). **Temps estimé: 2h**
+
+______
+
 **04-04-2020:**
 
 - La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A3%20correction.md) de l'activité 3 d'immunologie est disponible.

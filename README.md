@@ -5,7 +5,7 @@ ______
 
 **Semaine du 06-04-2020:**
 
-- Faire [l'activité 4](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A4.pdf) d'immunologie. Cette activité necéssite (si vous le pouvez) de télécharger les logiciels [genigen](http://acces.ens-lyon.fr/acces/logiciels/applications/geniegen) et [rastop](http://acces.ens-lyon.fr/biotic/rastop/accueil.htm), et les fichiers [suivants](https://github.com/YannBouyeron/SVT-TS/tree/master/Immunologie/A4%20Files). **Temps estimé: 2h**. Vous pouvez m'envoyer votre bilan et vos captures d'écrans des modélisations moléculaires si vous le souhaitez.
+- Faire [l'activité 4](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A4.pdf) d'immunologie. Cette activité necéssite (si vous le pouvez) de télécharger les logiciels [genigen](http://acces.ens-lyon.fr/acces/logiciels/applications/geniegen) et [rastop](http://acces.ens-lyon.fr/biotic/rastop/accueil.htm), et les fichiers [suivants](https://github.com/YannBouyeron/SVT-TS/tree/master/Immunologie/Files.zip). **Temps estimé: 2h**. Vous pouvez m'envoyer votre bilan et vos captures d'écrans des modélisations moléculaires si vous le souhaitez.
 
 - **SPE:** Faire [l'activité 3](https://ipfs.io/ipfs/Qmd8kJFDvQxaNjvVA1EL23UvxRmJ8iNDCwcpzPRpvrvnTF) sur l'homéostat glycémique. **Temps estimé: 2h**
 

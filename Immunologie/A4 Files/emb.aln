@@ -1,0 +1,54 @@
+########################################
+# Program: needle
+# Rundate: Fri 10 Apr 2020 22:09:12
+# Commandline: needle
+#    -outfile emb.aln
+#    -asequence seqa.fas
+#    -bsequence seqb.fas
+#    -gapopen 10
+#    -gapextend 0.5
+# Align_format: srspair
+# Report_file: emb.aln
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: igglsida.pro
+# 2: iggmsida.pro
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 215
+# Identity:     215/215 (100.0%)
+# Similarity:   215/215 (100.0%)
+# Gaps:           0/215 ( 0.0%)
+# Score: 1117.0
+# 
+#
+#=======================================
+
+igglsida.pro       1 EIVLTQSPGTLSLSPGERATFSCRSSHSIRSRRVAWYQHKPGQAPRLVIH     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+iggmsida.pro       1 EIVLTQSPGTLSLSPGERATFSCRSSHSIRSRRVAWYQHKPGQAPRLVIH     50
+
+igglsida.pro      51 GVSNRASGISDRFSGSGSGTDFTLTITRVEPEDFALYYCQVYGASSYTFG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+iggmsida.pro      51 GVSNRASGISDRFSGSGSGTDFTLTITRVEPEDFALYYCQVYGASSYTFG    100
+
+igglsida.pro     101 QGTKLERKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWK    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+iggmsida.pro     101 QGTKLERKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWK    150
+
+igglsida.pro     151 VDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQ    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+iggmsida.pro     151 VDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQ    200
+
+igglsida.pro     201 GLRSPVTKSFNRGEC    215
+                     |||||||||||||||
+iggmsida.pro     201 GLRSPVTKSFNRGEC    215
+
+
+#---------------------------------------
+#---------------------------------------

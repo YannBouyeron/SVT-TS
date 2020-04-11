@@ -68,8 +68,8 @@ Sur les représentations ci dessous, les anticorps ne sont pas entiers (pour cha
 <table>
 <tr><th align=center>Anticorps 1 + P24</th><th align=center>Anticorps 2 + P24</th></th>
 <tr>
-<td><a href="https://ipfs.io/ipfs/QmZaCqj5v6JXbrG8JfEAZcjc8R3958wFYy2ztYyhsxQT89"><img src="https://ipfs.io/ipfs/QmZaCqj5v6JXbrG8JfEAZcjc8R3958wFYy2ztYyhsxQT89" width=80%></a></td>
-<td><a href="https://ipfs.io/ipfs/QmPxpJRpDBvEZ7neFv9huWQNDLwrYEaQ4guoDboKCM1nfh"><img src="https://ipfs.io/ipfs/QmPxpJRpDBvEZ7neFv9huWQNDLwrYEaQ4guoDboKCM1nfh" width=80%></a></td>
+<td align=center><a href="https://ipfs.io/ipfs/QmZaCqj5v6JXbrG8JfEAZcjc8R3958wFYy2ztYyhsxQT89"><img src="https://ipfs.io/ipfs/QmZaCqj5v6JXbrG8JfEAZcjc8R3958wFYy2ztYyhsxQT89" width=80%></a></td>
+<td align=center><a href="https://ipfs.io/ipfs/QmPxpJRpDBvEZ7neFv9huWQNDLwrYEaQ4guoDboKCM1nfh"><img src="https://ipfs.io/ipfs/QmPxpJRpDBvEZ7neFv9huWQNDLwrYEaQ4guoDboKCM1nfh" width=80%></a></td>
 </tr>
 </table>
 </div>

@@ -4,6 +4,17 @@
 ______
 
 
+**Semaine du 13-04-2020:**
+
+- Faire [l'activité 5](https://ipfs.io/ipfs/QmRvD9DbaqcL9erhv5UjxFdmPTbtZaFsURXPwr2nwTCi3H) sur l'origine des anticorps. **Temps estimé: 2h**
+
+- **SPE:** Faire [l'acitivté 4](https://ipfs.io/ipfs/QmNPs9FeJhMhAZxUfwnQS7o8QfH3h9T7oLLkDKwYmVk83V) sur la régulation de la glycémie. **Temps estimé: 2h** 
+
+
+
+______
+
+
 **10-04-2020:**
 
 - La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A4%20correction.md) de l'activité 4 d'immunologie est disponible.

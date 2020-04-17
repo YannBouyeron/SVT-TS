@@ -4,6 +4,15 @@
 ______
 
 
+**17-04-2020:**
+
+- La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A5%20Correction.pdf) de l'activité 5 sur l'origine des anticorps est disponible.
+
+- La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/A4%20correction.md) de l'activité 4 sur la régulation de la glycémie est disponible.
+
+______
+
+
 **Semaine du 13-04-2020:**
 
 - Faire [l'activité 5](https://ipfs.io/ipfs/QmRvD9DbaqcL9erhv5UjxFdmPTbtZaFsURXPwr2nwTCi3H) sur l'origine des anticorps. **Temps estimé: 2h**

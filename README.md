@@ -4,6 +4,15 @@
 ______
 
 
+**Semaine du 04-05-2020:**
+
+- Faire les activités du livre pages [288](https://ipfs.io/ipfs/QmXEn2tqcZQyh2azQmREEexuMrMPeY9TEkjHc9Fc7ufzvw)-[289](https://ipfs.io/ipfs/QmenHvXcybZ5awkP8xdgqmCXpC7smEyy6FhnBFFGvqxZxV) et pages [292](https://ipfs.io/ipfs/Qmaaxdw1hqWkb759YLRFy9mETyuqQQPqXhgDTxnvnSXHzj)-[293](https://ipfs.io/ipfs/QmeshfgMNRw7uhvj68oLAVnFy6xQBYXFbVXTor1Y6qv2jX) **Temps estimé: 2 à 3h**
+
+- **SPE:** Faire l'exercice 4 page 183, et l'activité page 188-189. **Temps estimé: 2h**
+
+______
+
+
 **17-04-2020:**
 
 - La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A-A5%20Correction.pdf) de l'activité 5 sur l'origine des anticorps est disponible.

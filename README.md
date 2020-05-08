@@ -1,5 +1,11 @@
 ### Travail pour la semaine:
 
+______
+
+
+**08-05-2020:**
+
+- La [correction](https://ipfs.io/ipfs/QmQSdbnXzPKD3AKJ9N7Hxr3tud7dt5KsaCTpAhXsCcL6tX) des activités pages 288 et 293 est disponible.
 
 ______
 

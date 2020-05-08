@@ -7,6 +7,9 @@ ______
 
 - La [correction](https://ipfs.io/ipfs/QmQSdbnXzPKD3AKJ9N7Hxr3tud7dt5KsaCTpAhXsCcL6tX) des activités pages 288 et 293 est disponible.
 
+- La correction de l'activité de SPE page 188 est dans le [cours](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/Glycémie%20et%20diabètes.pdf)
+
+
 ______
 
 

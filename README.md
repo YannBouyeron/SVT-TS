@@ -1,5 +1,14 @@
 ### Travail pour la semaine:
 
+
+______
+
+
+**10-05-2020:**
+
+- La [correction](https://ipfs.io/ipfs/QmZrwFSQAukv5M9EqZFZQjTrXXWSoSiLcZzYD4UiPgGE78) de l'exercice de SPE est disponible.
+
+
 ______
 
 

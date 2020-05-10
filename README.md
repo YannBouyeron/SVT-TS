@@ -1,5 +1,14 @@
 ### Travail pour la semaine:
 
+______
+
+
+**Semaine du 11-05-2020:**
+
+- Faire l'activité sur le VIH page 294, et l'exercice 7 page 304
+
+- **SPE:** Faire l'activité sur le diabète de type 1 pages 190-191
+
 
 ______
 

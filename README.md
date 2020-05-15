@@ -2,6 +2,13 @@
 
 ______
 
+**15-05-2020:**
+
+- La [correction](https://ipfs.io/ipfs/QmX6C1b5yN95LUwcJHDaRM4qW6ExV4cC6c4RKxfCszyB7B) de l'activité sur le VIH est disponible.
+
+
+______
+
 
 **Semaine du 11-05-2020:**
 

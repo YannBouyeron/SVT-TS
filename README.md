@@ -6,6 +6,8 @@ ______
 
 - La [correction](https://ipfs.io/ipfs/QmX6C1b5yN95LUwcJHDaRM4qW6ExV4cC6c4RKxfCszyB7B) de l'activité sur le VIH est disponible.
 
+- La [correction](https://ipfs.io/ipfs/QmQBhhgzXdTh7pw3LFyTfhwgaxzbF3vJbzMXEhLpAMv23Y) de l'exercice 7 page 304 est disponible.
+
 
 ______
 

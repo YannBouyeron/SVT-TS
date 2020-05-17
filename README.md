@@ -3,6 +3,15 @@
 ______
 
 
+**Semaine du 18-05-2020:**
+
+- Faire les [activités](https://ipfs.io/ipfs/QmP6xoFBPBiVLksHuKcJikTCqjLFU75hmLFQV1fDuNHN2W) sur la mémoire immunitaire et la vaccination.
+
+- **SPE:** Faire l'activité sur le diabète de type 2 pages 192-193
+
+______
+
+
 **15-05-2020:**
 
 - La [correction](https://ipfs.io/ipfs/QmX6C1b5yN95LUwcJHDaRM4qW6ExV4cC6c4RKxfCszyB7B) de l'activité sur le VIH est disponible.

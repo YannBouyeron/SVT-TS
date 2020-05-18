@@ -5,6 +5,10 @@ ______
 
 **Semaine du 18-05-2020:**
 
+
+- **Le sujet du devoir 2B est disponible: [sujet](https://ipfs.io/ipfs/QmXaadtx8Puuj3t4oUcQjVGLZHD56T4b6QXaCPtBA9kjVD)**  
+
+
 - Faire les [activités](https://ipfs.io/ipfs/QmP6xoFBPBiVLksHuKcJikTCqjLFU75hmLFQV1fDuNHN2W) sur la mémoire immunitaire et la vaccination.
 
 - **SPE:** Faire l'activité sur le diabète de type 2 pages 192-193

@@ -1,5 +1,13 @@
 ### Travail pour la semaine:
 
+
+______
+
+**23-05-2020:**
+
+- La [correction](https://ipfs.io/ipfs/QmVeZzZcz5nEuVo2CNLobtxtc9K3sp3D4j1gPLyKZbuCVu) de l'activité sur la mémoire immunitaire et la vaccination est disponible.
+
+
 ______
 
 

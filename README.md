@@ -7,6 +7,8 @@ ______
 
 - La [correction](https://ipfs.io/ipfs/QmVeZzZcz5nEuVo2CNLobtxtc9K3sp3D4j1gPLyKZbuCVu) de l'activité sur la mémoire immunitaire et la vaccination est disponible.
 
+- **SPE:** La [correction](https://ipfs.io/ipfs/QmXkqzEFFZEFatVMjgcrXjqT8C1SvNvubPuEzoV5GiDQtY) de l'activité sur le diabète de type 2 est disponible.
+
 
 - Les [éléments de correction](https://ipfs.io/ipfs/QmWQ7aYFDbrno4CkhFgmCL9WNm79SKjXUMhkoc5ExbvXQ7) du 2B d'immunologie sont disponibles.
 

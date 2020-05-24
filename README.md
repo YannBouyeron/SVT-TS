@@ -3,6 +3,19 @@
 
 ______
 
+**Semaine du 25-05-2020:**
+
+- Le thème d'immunologie est terminé. Le [cours](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/T3A%20Cours.pdf) est disponible.
+
+- Faire l'[activité 1](https://github.com/YannBouyeron/SVT-TS/blob/master/Communication%20nerveuse/T3B-A1.pdf) sur le reflexe myotatique. (thème sur la communication nerveuse)
+
+- **SPE:** Le thème sur la glycémie et le diabète est terminé. Le [cours](https://github.com/YannBouyeron/SVT-TS/blob/master/SPE-Glycémie/Glycémie%20et%20diabètes.pdf) est dispnible.
+
+- **SPE:** Faire le sujet 2B sur le thème glycémie: [sujet](https://ipfs.io/ipfs/QmVEzC874a35w5b4npXn3PLCQcSpc2uVjnNJPBsyScAdiJ)
+
+
+______
+
 **23-05-2020:**
 
 - La [correction](https://ipfs.io/ipfs/QmVeZzZcz5nEuVo2CNLobtxtc9K3sp3D4j1gPLyKZbuCVu) de l'activité sur la mémoire immunitaire et la vaccination est disponible.

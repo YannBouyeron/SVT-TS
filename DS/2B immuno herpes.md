@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head><meta charset="utf-8"/></head>
-	<body>
 		<p><a href="https://ipfs.io/ipfs/QmXaadtx8Puuj3t4oUcQjVGLZHD56T4b6QXaCPtBA9kjVD">Lien vers le sujet</a></p>
 
 		<h1 align=center>Des avortements spontanés causés par le virus de l’herpès.</h1>
@@ -23,5 +19,3 @@
 
 		<p><strong>Lorsqu’une femme enceinte est infectée par le virus de l’herpès, le virus inhibe l’expression du gène codant les marqueurs HLA-G et inhibe en plus le transport de ces marqueurs vers la membrane plasmique des cellules du trophoblaste. Les récepteurs KIR des cellules NK de la mère ne détectant pas la présence des marqueurs HLA-G du trophoblaste, cela induit l’exocytose des granules de perforines qui lysent (détruisent) alors les cellules du trophoblaste. Le trophoblaste étant détruit, les cellules NK de la mère ont alors accès aux cellules du foetus qui, elles aussi étant dépourvues de marqueurs HLA-G, sont détruites de la même manière. Cela provoque alors un avortement spontané.</strong></p>
 
-	</body>
-</html>

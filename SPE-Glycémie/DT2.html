@@ -8,7 +8,7 @@
 
 <h4>Des facteurs génétiques:</h4>
 
-<p>On observe (document 3) que plus la proximité génétique avec un individu atteint du DT2 est forte, et plus le risque de développer un DT2 est forte. Il existe donc une influence génétique dans le développement du DT2. Cette influence génétique est très forte puisque dans le cas des vrais jumeaux (génotypes identiques), si l’un est atteint du DT2, l’autre a 99% de risque d’en développer un aussi.</p>
+<p>On observe (document 3) que plus la proximité génétique avec un individu atteint du DT2 est forte, et plus le risque de développer un DT2 est fort. Il existe donc une influence génétique dans le développement du DT2. Cette influence génétique est très forte puisque dans le cas des vrais jumeaux (génotypes identiques), si l’un est atteint du DT2, l’autre a 99% de risque d’en développer un aussi.</p>
 
 <p><em>Attention cependant, dans ce genre d’étude, il peut être difficile de dissocier la part génétique et environnementale; les vrais jumeaux ont un génotype identique, mais ils ont aussi dans la majorité des cas un mode de vie identique et sont donc exposés aux mêmes facteurs environnementaux.</em></p>
 

@@ -24,7 +24,7 @@
 
 <h2>Les causes physiologiques du DT2.</h2>
 
-<p>L’insulinémie (document 5) d’un individu sain est adaptée à sa glycémie: sont insulinémie augmente quand sa glycémie augmente, et inversement.</p>
+<p>L’insulinémie (document 5) d’un individu sain est adaptée à sa glycémie: son insulinémie augmente quand sa glycémie augmente, et inversement.</p>
 
 <p>L’insulinémie des individus prédiabétiques DT2 évolue avec la maladie:</p>
 

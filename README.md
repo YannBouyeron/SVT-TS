@@ -4,6 +4,14 @@
 ______
 
 
+**Semaine du 01-06-2020:**
+
+- Faire les activités pages [334](https://ipfs.io/ipfs/QmYsyA9SRAnK4HmFwfwVLvHS6KfGz7eiDNh94PR5pXg3cC) [335](https://ipfs.io/ipfs/QmbFMaSYJ1zyogJrmUL99F3SYfpAHfNmYu3V9tMN7BVyqW) et [336](https://ipfs.io/ipfs/QmcNA4y76hWS8jsTNtoLX7a7z7WtyiDEiKVt6pkkxPY3vk) [337](https://ipfs.io/ipfs/QmexiDLA63ZbY175KZRF5JpMSpsR4ufcAfL4F1tTtyFaHE) sur la nature du message nerveux et la synapse neuro-musculaire.
+
+
+______
+
+
 **29-05-2020:**
 
 

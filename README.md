@@ -1,5 +1,12 @@
 ### Travail pour la semaine:
 
+______
+
+**05-06-2020:**
+
+- Les [corrections](https://ipfs.io/ipfs/QmcVJVgYVrq9jrunLEGosKED1qj4BzPV2uQrTNduqjDsdH) des activités sur la nature du message nerveux et sur la synapse neuro-musculaire sont disponibles.
+
+
 
 ______
 

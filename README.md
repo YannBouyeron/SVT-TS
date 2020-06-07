@@ -2,6 +2,15 @@
 
 ______
 
+
+**Semaine du 08-06-2020:**
+
+
+- Faire [l'acivité 4](https://github.com/YannBouyeron/SVT-TS/blob/master/Communication%20nerveuse/T3B-A4.pdf) sur la commande corticale du mouvement volontaire.
+
+
+______
+
 **05-06-2020:**
 
 - Les [corrections](https://ipfs.io/ipfs/QmdMRtACvLvcPH1UKFKMUrSEZb4o4JSRXbfSeSHN2sJWty) des activités sur la nature du message nerveux et sur la synapse neuro-musculaire sont disponibles.

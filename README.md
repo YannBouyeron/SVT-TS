@@ -8,7 +8,7 @@ ______
 
 - Faire [l'acivité 4](https://github.com/YannBouyeron/SVT-TS/blob/master/Communication%20nerveuse/T3B-A4.pdf) sur la commande corticale du mouvement volontaire.
 
-- **SPE:** Si vous aviez aimé l'intolérance au lactose des Massai et le micropenis des crocodiles du lac Apokpo, alors ne manquez pas ce sujet de bac sur le [diabète des indiens Pima](https://ipfs.io/ipfs/Qmc5Nq33fNoi7mqFCBFKosPiuwuFpCE3wRrvKbU4RWMjgi) 
+- **SPE:** Si vous aviez aimé l'intolérance au lactose des Massai et le micropenis des crocodiles du lac Apokpo, alors ne manquez surtout pas ce sujet de bac sur le [diabète des indiens Pimas](https://ipfs.io/ipfs/Qmc5Nq33fNoi7mqFCBFKosPiuwuFpCE3wRrvKbU4RWMjgi) 
 
 ______
 

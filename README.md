@@ -3,6 +3,18 @@
 ______
 
 
+**12-06-2020:**
+
+- La [correction](https://ipfs.io/ipfs/QmRvazDstni6EFBatJcDLGEz8MbHREL4ZKdzGRwYhvrFUf) de l'activité 4 est disponible.
+
+- Le [cours](https://github.com/YannBouyeron/SVT-TS/blob/master/Communication%20nerveuse/T3B%20cours.pdf) sur la communication nerveuse est disponible. Un "mémo" sous forme de [diaporama](https://github.com/YannBouyeron/SVT-TS/blob/master/Communication%20nerveuse/Communication%20nerveuse%20Mémo.pdf) est aussi disponible.
+
+
+- **SPE:** La [correction](https://ipfs.io/ipfs/Qmdu3ZNgs5YiwMkMs34yFvjA9BtmpKtKBdE8FvkEWVy4mv) du 2B sur les Pimas est disponible.
+
+______
+
+
 **Semaine du 08-06-2020:**
 
 

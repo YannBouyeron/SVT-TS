@@ -3,6 +3,15 @@
 ______
 
 
+**Semaine du 15-06-2020:**
+
+
+- Faire partie 1 sur la myasthénie : [Lien vers le sujet 2017 Émirats Arabes Unis](http://svt.ac-besancon.fr/bac-s-2017-emirats-arabes-unis/)
+
+
+______
+
+
 **12-06-2020:**
 
 - La [correction](https://ipfs.io/ipfs/QmRvazDstni6EFBatJcDLGEz8MbHREL4ZKdzGRwYhvrFUf) de l'activité 4 est disponible.

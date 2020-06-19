@@ -1,5 +1,16 @@
 ### Travail pour la semaine:
 
+
+______
+
+
+**19-06-2020:**
+
+
+- La [correction](https://ipfs.io/ipfs/QmVNJEb2ninGE5aEqJgt6mr8DniayxqjMVsDLHjfVpGZSJ) du sujet sur la myasthénie est disponible.
+
+
+
 ______
 
 
